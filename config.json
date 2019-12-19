@@ -6,9 +6,9 @@
 		{ "node":"YourNodeName" },
 		{ "emonURL":"https://emoncms.org/input/post?node=" },
 		{ "hiveURL":"https://api.prod.bgchprod.info:443/omnia" },
-		{ "difBoost":1 },
+		{ "difBoost":2 },
 		{ "timeBoost":60 },
 		{ "tempCut":0.5 },
-		{ "timeCut":30 }
+		{ "timeCut":60 }
 	]
 }
