@@ -1,0 +1,14 @@
+{
+	"config": [
+		{ "username":"x@x.x" },
+		{ "password":"abc123" },
+		{ "apikey":"aaaaaaaaaaaaaaaaaaaaaaaaaaaa" },
+		{ "node":"YourNodeName" },
+		{ "emonURL":"https://emoncms.org/input/post?node=" },
+		{ "hiveURL":"https://api.prod.bgchprod.info:443/omnia" },
+		{ "difBoost":1 },
+		{ "timeBoost":60 },
+		{ "tempCut":0.5 },
+		{ "timeCut":30 }
+	]
+}
