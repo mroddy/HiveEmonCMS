@@ -124,5 +124,4 @@ upload_json = json.dumps(uploaddata)
 
 #Upload Data
 url = emonurl+node+'&fulljson='+upload_json+'&apikey='+apikey
-print(url)
-#requests.post(url)
+requests.post(url)
